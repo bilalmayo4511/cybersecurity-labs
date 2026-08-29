@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Fri Aug 28 11:41:59 2026 as: /usr/lib/nmap/nmap --privileged -sn -oN results/basic-scan.txt 192.168.0.117
+Nmap scan report for 192.168.0.117
+Host is up.
+# Nmap done at Fri Aug 28 11:41:59 2026 -- 1 IP address (1 host up) scanned in 0.50 seconds
